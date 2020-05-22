@@ -4,7 +4,7 @@ This time, we present the use of the `FLOAT(size,d)` and the `DATETIME` data typ
 
 ### The `FLOAT` MySQL data type: 
 
-The `Float(size,d)` data type represents a small number with a floating decimal point.
+The `Float(size,d)` data type represents a small number with a decimal point.
 
 The maximum number of digits to the left of the decimial point is specified in the `size` parameter.
 

@@ -49,7 +49,7 @@
    },
    "name": "Updating App table",
    "instructions": "A `mysql` prompt has been opened for you.\n\nUsing the `App` database:\n\n1. Rename the `settings` table to be: `user_settings`\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-7.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-7.js",
    "points": 1
   }
  },
@@ -65,7 +65,7 @@
    },
    "name": "Altering tables",
    "instructions": "A `mysql` prompt has been opened for you.\n\nUsing the `EPDriver` database:\n\n1. Change the name of the `name` column of the `drivers` table to `driver_name` with a `VARCHAR` data type and a 125 character limit that can't be null\n3. Add a new `driver_age` column to the `drivers` table with a `TINYINT(2)` data type that must not be a negative value and can't be _null_\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-4.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-4.js",
    "points": 1
   }
  },
@@ -81,7 +81,7 @@
    },
    "name": "Omitting WHERE",
    "instructions": "A `mysql` prompt has been opened for you.\n\nUsing the `EPDriver` database:\n\n1. Set the `name` column of all the records from the `users` table to _John Doe_\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-3.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-3.js",
    "points": 1
   }
  },
@@ -97,7 +97,7 @@
    },
    "name": "User settings",
    "instructions": "A `mysql>` prompt has been opened for you.\n\nComplete the following SQL statements (try using dot syntax):\n\n1.  Create an `App` database\n2.  Use the `App` database and create a `settings` table with these features:\n```\n+-----------------+---------------------+------+-----+----------+-------+\n| Field           | Type                | Null | Key | Default  | Extra |\n+-----------------+---------------------+------+-----+----------+-------+\n| user_id         | int(7)              | NO   |     | NULL     |       |\n| email_frequency | tinyint(2) unsigned | YES  |     | 15       |       |\n| layout          | varchar(70)         | YES  |     | vertical |       |\n| updated_at      | datetime            | YES  |     | NULL     |       |\n+-----------------+---------------------+------+-----+----------+-------+\n```\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-5.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-5.js",
    "points": 1
   }
  },
@@ -113,7 +113,7 @@
    },
    "name": "Updating data",
    "instructions": "A `mysql` prompt has been opened for you.\n\nUsing the `EPDriver` database:\n\n1. Update the `trip_total_fare` column of the `trips` table with a value of 25.00 where the `trip_datetime_end` is `NULL`\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-1.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-1.js",
    "points": 1
   }
  },
@@ -129,7 +129,7 @@
    },
    "name": "Updating the trips table",
    "instructions": "A `mysql` prompt has been opened for you.\n\nUsing the `EPDriver` database:\n\n1. Set all the records from the `trip_datetime_start` column of the `trips` table to  _2015-09-14 00:00:00_ where the `id` is less than 5\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-2.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-2.js",
    "points": 1
   }
  },
@@ -145,7 +145,7 @@
    },
    "name": "App settings",
    "instructions": "A `mysql` prompt has been opened for you.\n\nComplete the following tasks (try using the _dot syntax_)\n\n1. Insert into the `App.settings` table the following values:\n```\n(99, DEFAULT, \"horizontal\", \"2015-09-15 04:01:04\")\n```\n\n---\nOnce you have completed these tasks press the _Check It!_ button to have your solution assessed.",
-   "command": "node .guides/sqltests/sql-3-6.js",
+   "command": "node --no-warnings .guides/sqltests/sql-3-6.js",
    "points": 1
   }
  }
