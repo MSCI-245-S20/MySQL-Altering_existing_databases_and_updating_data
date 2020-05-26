@@ -10,7 +10,8 @@
    "content-file": ".guides/content/Recap-ef8c.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "7deb73fb-9a7e-f60c-2ba8-f5e138b0bf45",
@@ -22,7 +23,8 @@
    "content-file": ".guides/content/What-we-ll-learn-7deb.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "eef6e1a-6cea-cc6d-c2cc-b3e51ffd1e34",
@@ -39,7 +41,8 @@
    "content-file": ".guides/content/Resetting-the-unit-s-databases-eef6.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "58909ba3-8a67-cd13-763d-b4a1c3b5c777",
@@ -61,7 +64,8 @@
    "content-file": ".guides/content/Analysing-the-schema-5890.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "7b8719de-f360-da5d-84ea-549ffae3f6d1",
@@ -73,7 +77,8 @@
    "content-file": ".guides/content/Showing-column-data-7b87.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "f457d427-15fa-7ca-9ad8-9af47771632f",
@@ -90,7 +95,8 @@
    "content-file": ".guides/content/Float-and-Datetime-f457.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "29faa63d-27c2-4f18-9740-93427bf83d13",
@@ -107,7 +113,8 @@
    "content-file": ".guides/content/Challenge-29fa.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "ac6ca750-f3cf-8af9-1011-b38ae5b7f006",
@@ -124,7 +131,8 @@
    "content-file": ".guides/content/Data-modification-ac6c.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "7d65c3b3-2b69-92f5-2f37-7c10bbdd4917",
@@ -146,7 +154,8 @@
    "content-file": ".guides/content/SQL-UPDATE-7d65.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "74bb7379-d41b-a55e-fcbe-bb22fa2486f3",
@@ -158,7 +167,8 @@
    "content-file": ".guides/content/Updating-data-74bb.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "35be4f06-a75d-6db3-42f5-e174aa43b8d0",
@@ -170,7 +180,8 @@
    "content-file": ".guides/content/Updating-data-35be.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "5a709c0d-b477-4010-1886-3f346717a745",
@@ -182,7 +193,8 @@
    "content-file": ".guides/content/Challenge-5a70.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "aa3a3591-d923-edc6-8ad0-c6caccfc32f8",
@@ -194,7 +206,8 @@
    "content-file": ".guides/content/Update-multiple-columns-aa3a.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "dbf2ebce-e306-7173-6fdf-2b08cc37d578",
@@ -206,7 +219,8 @@
    "content-file": ".guides/content/Challenge-dbf2.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "a4acd8e5-fdb3-3095-e3d2-5d994c6b31ba",
@@ -217,8 +231,8 @@
      "action": "close"
     },
     {
-     "path": "#terminal: mysql",
-     "panel": 0,
+     "path": "#terminal: ",
+     "panel": null,
      "action": "open"
     }
    ],
@@ -228,7 +242,8 @@
    "content-file": ".guides/content/Omitting-WHERE-a4ac.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "d55b9221-ae0-1474-84d6-9d945223864",
@@ -240,7 +255,8 @@
    "content-file": ".guides/content/Output-d55b.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "7d24dea7-782f-bb73-1e7a-a7feab8685cb",
@@ -252,7 +268,8 @@
    "content-file": ".guides/content/Challenge-7d24.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "740ffb0a-ba39-df8e-163f-693b49d12d",
@@ -269,7 +286,8 @@
    "content-file": ".guides/content/Real-world-scenario-740f.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "d9561f3-8435-4d4f-f651-1212f380a5f8",
@@ -286,7 +304,8 @@
    "content-file": ".guides/content/Altering-tables-d956.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "af0341aa-e332-5d8c-b8a9-a85a25795e4f",
@@ -308,7 +327,8 @@
    "content-file": ".guides/content/Alter--Change-af03.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "f55060cc-a325-5287-8ce4-f8ac8aa7976",
@@ -320,7 +340,8 @@
    "content-file": ".guides/content/Alter--Add-f550.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "41252774-bdc4-2d12-7df1-ff4b57e7487",
@@ -332,7 +353,8 @@
    "content-file": ".guides/content/Challenge-4125.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "7ad4e811-7f18-6c28-8c27-8330d95362",
@@ -343,8 +365,8 @@
      "action": "close"
     },
     {
-     "path": "#terminal: mysql",
-     "panel": 0,
+     "path": "#terminal: ",
+     "panel": null,
      "action": "open"
     }
    ],
@@ -354,7 +376,8 @@
    "content-file": ".guides/content/Renaming-tables-7ad4.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "6026cc40-5df3-89b-2e73-69c830b715bc",
@@ -366,7 +389,8 @@
    "content-file": ".guides/content/Examples-6026.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "38c29dc2-e4f9-a464-39f6-58ee5a369fab",
@@ -378,7 +402,8 @@
    "content-file": ".guides/content/Examples-38c2.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "a160c4a9-e303-9364-eb6c-d8f4319c34b8",
@@ -389,8 +414,8 @@
      "action": "close"
     },
     {
-     "path": "#terminal: mysql",
-     "panel": 0,
+     "path": "#terminal: ",
+     "panel": null,
      "action": "open"
     }
    ],
@@ -400,7 +425,8 @@
    "content-file": ".guides/content/Final-challenges-a160.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "a155d1e6-4136-2f3-c85b-f9e94f3cb889",
@@ -412,7 +438,8 @@
    "content-file": ".guides/content/Challenge-a155.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "c0c751d1-82d7-18e4-2df7-50fb7a7f72d9",
@@ -424,7 +451,8 @@
    "content-file": ".guides/content/Challenge-c0c7.md",
    "chapter": false,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   },
   {
    "id": "5c185231-d064-f994-eeec-7611a309a459",
@@ -441,10 +469,20 @@
    "content-file": ".guides/content/That-s-all-folks-5c18.md",
    "chapter": true,
    "reset": [],
-   "teacherOnly": false
+   "teacherOnly": false,
+   "learningObjectives": ""
   }
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
 }
