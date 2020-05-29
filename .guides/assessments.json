@@ -3,38 +3,49 @@
   "type": "multiple-choice",
   "taskId": "multiple-choice-3596453022",
   "source": {
+   "name": "SQL data types",
    "showName": true,
+   "instructions": "Please select all of the possible correct answers and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n__What is true about these SQL data types?__",
+   "multipleResponse": true,
    "answers": [
     {
-     "answer": "The `DATE` SQL data type has a `YYYY-MM-DD 00:00:00` format",
-     "correct": false,
-     "_id": "55fba1835a78b03f395a2f59"
-    },
-    {
+     "_id": "55fba1835a78b03f395a2f59",
      "correct": true,
-     "answer": "The `FLOAT(size,d)` SQL data type is part of the numbers data types.",
-     "_id": "55fba1835a78b03f395a2f58"
+     "answer": "The `DATETIME` SQL data type has a `YYYY-MM-DD HH:MI:SS` format"
     },
     {
-     "answer": "The `VARCHAR(size)` allows a maximum of 140 characters.",
-     "correct": false,
-     "_id": "55fba1835a78b03f395a2f57"
-    },
-    {
+     "_id": "55fba1835a78b03f395a2f58",
      "correct": true,
-     "answer": "`INT(size)` data type is suitable for non-decimal numbers and can be a negative digit.",
-     "_id": "55fba1835a78b03f395a2f56"
+     "answer": "The `FLOAT(size,d)` SQL data type is part of the numbers data types."
+    },
+    {
+     "_id": "55fba1835a78b03f395a2f57",
+     "correct": false,
+     "answer": "The `VARCHAR(size)` allows a maximum of 140 characters."
+    },
+    {
+     "_id": "55fba1835a78b03f395a2f56",
+     "correct": true,
+     "answer": "`INT(size)` data type is suitable for non-decimal numbers and can be a negative digit."
     }
    ],
-   "tokens": {
-    "blank": [],
-    "text": []
-   },
-   "name": "SQL data types",
-   "instructions": "Please select all of the possible correct answers and _Check it!_ to have your answer assessed. If you are wrong, you will see the correct answer highlighted:\n\n__What is true about these SQL data types?__",
+   "guidance": "",
+   "showGuidanceAfterResponse": false,
+   "showExpectedAnswer": true,
    "points": 1,
    "incorrectPoints": 0,
-   "multipleResponse": true
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
   }
  },
  {

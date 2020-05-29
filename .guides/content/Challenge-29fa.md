@@ -4,6 +4,6 @@
 |||guidance
 ### Correct answers:
 
-Bullet-points: 2, 4
+Bullet-points: 1, 2, 4
 
 |||
